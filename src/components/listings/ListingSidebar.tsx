@@ -58,3 +58,4 @@ export const ListingSidebar = ({ owner, location, onContactOwner }: ListingSideb
     </div>
   );
 };
+

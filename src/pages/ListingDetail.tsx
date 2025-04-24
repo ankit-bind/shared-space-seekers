@@ -1,3 +1,4 @@
+
 import { useParams } from "react-router-dom";
 import { useState } from "react";
 import { useToast } from "@/hooks/use-toast";
@@ -98,3 +99,4 @@ const ListingDetail = () => {
 };
 
 export default ListingDetail;
+

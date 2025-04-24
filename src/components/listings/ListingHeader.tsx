@@ -19,3 +19,4 @@ export const ListingHeader = ({ title, location, rentAmount }: ListingHeaderProp
     </div>
   );
 };
+
