@@ -1,5 +1,6 @@
 
 import { useParams } from "react-router-dom";
+import { useState } from "react"; // Add useState import
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { Avatar } from "@/components/ui/avatar";
